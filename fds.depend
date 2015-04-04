@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1428117548 source:/home/jose34mp/Documentos/Proyecto/fds/Animal.cpp
+	"Animal.h"
+
+1428117535 /home/jose34mp/Documentos/Proyecto/fds/Animal.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<iostream>
+	<vector>
+	"Enemy.h"
+
+1428103754 source:/home/jose34mp/Documentos/Proyecto/fds/Enemy.cpp
+	"Enemy.h"
+
+1428112161 /home/jose34mp/Documentos/Proyecto/fds/Enemy.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<iostream>
+	<vector>
+
+1428103837 source:/home/jose34mp/Documentos/Proyecto/fds/EShip.cpp
+	"EShip.h"
+
+1428115496 /home/jose34mp/Documentos/Proyecto/fds/EShip.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<iostream>
+	<vector>
+	"Enemy.h"
+
+1428183700 source:/home/jose34mp/Documentos/Proyecto/fds/main.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<vector>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"Ship.h"
+	"Enemy.h"
+	"EShip.h"
+	"Animal.h"
+	"Alien.h"
+	"AlienInvert.h"
+	"Meteor.h"
+	<sstream>
+	<fstream>
+
+1428122877 /home/jose34mp/Documentos/Proyecto/fds/Ship.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<vector>
+
+1428110622 /home/jose34mp/Documentos/Proyecto/fds/Meteor.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<iostream>
+	<vector>
+	"Enemy.h"
+
+1428184337 source:/home/jose34mp/Documentos/Proyecto/fds/Ship.cpp
+	"Ship.h"
+
+1428111257 source:/home/jose34mp/Documentos/Proyecto/fds/Meteor.cpp
+	"Meteor.h"
+
+1428119501 source:/home/jose34mp/Documentos/Proyecto/fds/Alien.cpp
+	"Alien.h"
+
+1428118735 /home/jose34mp/Documentos/Proyecto/fds/Alien.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<iostream>
+	<vector>
+	"Enemy.h"
+
+1428119544 source:/home/jose34mp/Documentos/Proyecto/fds/AlienInvert.cpp
+	"AlienInvert.h"
+
+1428118857 /home/jose34mp/Documentos/Proyecto/fds/AlienInvert.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<iostream>
+	<vector>
+	"Enemy.h"
+
